@@ -1,0 +1,29 @@
+[
+  {
+    "floor": 1,
+    "name": "Ground Floor",
+    "code": "L1",
+    "yMin": -5.0,
+    "yMax": 2.8,
+    "cameraY": 1.3,
+    "description": "Dean's Office, Accreditation, Faculty, Lec 2, Octa Office, Restrooms, Hangout"
+  },
+  {
+    "floor": 2,
+    "name": "2nd Floor",
+    "code": "L2",
+    "yMin": 2.8,
+    "yMax": 5.8,
+    "cameraY": 4.3,
+    "description": "Lec 3, Lec 4, Lec 5, Lec 6, Lec 7"
+  },
+  {
+    "floor": 3,
+    "name": "3rd Floor",
+    "code": "L3",
+    "yMin": 5.8,
+    "yMax": 15.0,
+    "cameraY": 7.5,
+    "description": "Lec 8, Lec 9, Lec 10, Lec 11, Lec 12"
+  }
+]

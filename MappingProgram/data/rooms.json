@@ -1,0 +1,684 @@
+[
+  {
+    "id": "deans-office",
+    "name": "Dean's Office - College of Computer Studies",
+    "code": "Dean's Office",
+    "category": "office",
+    "floor": 1,
+    "coordinates": {
+      "x": 99.8,
+      "y": 1.1,
+      "z": -6.7
+    },
+    "color": "#e11d48",
+    "description": "Executive office of the Dean. Handles student petitions, academic approvals, course endorsements, and collegiate administrative affairs.",
+    "head": "Dr. Ronald Vance, P.E.",
+    "hours": "Mon - Fri, 8:00 AM - 5:00 PM",
+    "facilities": [
+      "Conference Room",
+      "Student Consultation Desk",
+      "Academic Affairs Filing",
+      "Air Conditioned",
+      "Waiting Lounge"
+    ],
+    "directions": "Ground Floor (L1), right beside Accreditation Room.",
+    "schedule": [
+      {
+        "time": "08:30 AM - 10:00 AM",
+        "subject": "Faculty Executive Board Meeting",
+        "instructor": "Dean Vance & Dept. Chairs",
+        "status": "In Progress"
+      },
+      {
+        "time": "10:00 AM - 12:00 PM",
+        "subject": "Open Student Academic Consultation",
+        "instructor": "Academic Advisers",
+        "status": "Upcoming"
+      },
+      {
+        "time": "01:30 PM - 03:30 PM",
+        "subject": "Curriculum Evaluation Panel",
+        "instructor": "Accreditation Committee",
+        "status": "Upcoming"
+      },
+      {
+        "time": "03:30 PM - 05:00 PM",
+        "subject": "Student Petition Signing",
+        "instructor": "Dean Vance",
+        "status": "Upcoming"
+      }
+    ],
+    "access": "Staff room only"
+  },
+  {
+    "id": "accreditation-room",
+    "name": "Accreditation & Quality Assurance Room",
+    "code": "Accreditation",
+    "category": "office",
+    "floor": 1,
+    "coordinates": {
+      "x": 89.2,
+      "y": 1.2,
+      "z": -6.6
+    },
+    "color": "#059669",
+    "description": "Office dedicated to institutional accreditation, curriculum evaluation, board documentation, and academic quality assurance.",
+    "head": "Dr. Cecilia Cruz (QA Director)",
+    "hours": "Mon - Fri, 8:00 AM - 5:00 PM",
+    "facilities": [
+      "Conference Table",
+      "Filing Cabinets",
+      "Air Conditioned",
+      "High-Speed Wi-Fi",
+      "Document Presentation Screen"
+    ],
+    "directions": "Ground Floor (L1), between the Faculty Room and the Dean's Office.",
+    "schedule": [
+      {
+        "time": "09:00 AM - 11:30 AM",
+        "subject": "Accreditation Documents Review",
+        "instructor": "QA Committee",
+        "status": "In Progress"
+      },
+      {
+        "time": "01:30 PM - 04:00 PM",
+        "subject": "Program Quality Audit",
+        "instructor": "Accreditation Board",
+        "status": "Upcoming"
+      }
+    ],
+    "access": "Allowed individuals only"
+  },
+  {
+    "id": "faculty-lounge",
+    "name": "Main Faculty Room - College of Computer Studies",
+    "code": "Faculty Room",
+    "category": "faculty",
+    "floor": 1,
+    "coordinates": {
+      "x": 82.9,
+      "y": 1.5,
+      "z": -6.6
+    },
+    "color": "#7c3aed",
+    "description": "Departmental faculty room with individual professor desks, consultation booths for student queries, thesis grading lounge, and preparation rooms.",
+    "head": "Prof. Elena Rostova (Faculty President)",
+    "hours": "Mon - Sat, 7:30 AM - 6:30 PM",
+    "facilities": [
+      "Consultation Cubicles",
+      "Faculty Workstations",
+      "Tea & Coffee Lounge",
+      "Printing Center",
+      "Air Conditioned"
+    ],
+    "directions": "Ground Floor (L1), adjacent to Accreditation Room.",
+    "schedule": [
+      {
+        "time": "08:00 AM - 11:00 AM",
+        "subject": "Open Office Hours (CS & IT Faculty)",
+        "instructor": "Dept Faculty",
+        "status": "In Progress"
+      },
+      {
+        "time": "01:00 PM - 03:00 PM",
+        "subject": "Senior Thesis Mentorship",
+        "instructor": "Research Advisers",
+        "status": "Upcoming"
+      },
+      {
+        "time": "03:00 PM - 05:00 PM",
+        "subject": "Student Consultation & Grade Review",
+        "instructor": "All Faculty",
+        "status": "Upcoming"
+      }
+    ],
+    "access": "Faculty & staff only"
+  },
+  {
+    "id": "lec-2",
+    "name": "Lecture Room 2 (Lec 2) - Multimedia Room",
+    "code": "Lec 2",
+    "category": "lecture",
+    "floor": 1,
+    "coordinates": {
+      "x": 58.8,
+      "y": 1.4,
+      "z": -6.6
+    },
+    "color": "#0284c7",
+    "description": "Equipped with multimedia projection, sound amplification, smart lectern, and seating for lectures.",
+    "head": "Engr. Marco Santos",
+    "hours": "Mon - Sat, 7:00 AM - 8:30 PM",
+    "facilities": [
+      "Projector",
+      "Surround Sound",
+      "Air Conditioned",
+      "Power Outlets",
+      "Smart Whiteboard"
+    ],
+    "directions": "Ground Floor (L1), beside Octa Office.",
+    "schedule": [
+      {
+        "time": "07:30 AM - 09:00 AM",
+        "subject": "CS 201: Data Structures & Algorithms",
+        "instructor": "Prof. Daniel Cruz",
+        "section": "BSCS 2-A",
+        "status": "Completed"
+      },
+      {
+        "time": "09:00 AM - 10:30 AM",
+        "subject": "MATH 104: Linear Algebra & Matrices",
+        "instructor": "Dr. Sarah Jenkins",
+        "section": "BSIT 1-B",
+        "status": "In Progress"
+      },
+      {
+        "time": "10:30 AM - 12:00 PM",
+        "subject": "CS 305: Operating Systems",
+        "instructor": "Engr. Marco Santos",
+        "section": "BSCS 3-A",
+        "status": "Upcoming"
+      },
+      {
+        "time": "01:00 PM - 02:30 PM",
+        "subject": "PHYS 202: Electromagnetism",
+        "instructor": "Dr. Alan Perez",
+        "section": "BSEE 2-A",
+        "status": "Upcoming"
+      }
+    ]
+  },
+  {
+    "id": "octa-office",
+    "name": "Octa Office - CCS Student Council",
+    "code": "Octa Office",
+    "category": "office",
+    "floor": 1,
+    "coordinates": {
+      "x": 48.7,
+      "y": 1.4,
+      "z": -6.6
+    },
+    "color": "#0891b2",
+    "description": "Official headquarters of the College of Computer Studies (CCS) Student Council. Serves as the central hub for council meetings, student org coordination, peer mentorship, and student assistance.",
+    "head": "CCS Student Council Officers",
+    "hours": "Mon - Fri, 8:00 AM - 6:00 PM",
+    "facilities": [
+      "HD Projector",
+      "Wireless Presentation",
+      "Air Conditioned",
+      "Modular Tables"
+    ],
+    "directions": "Ground Floor (L1), beside Lec 2.",
+    "schedule": [
+      {
+        "time": "08:30 AM - 11:30 AM",
+        "subject": "CCS Council Executive Session & Committee Work",
+        "instructor": "CCS Student Council Officers",
+        "section": "CCS Council",
+        "status": "In Progress"
+      },
+      {
+        "time": "01:00 PM - 05:00 PM",
+        "subject": "Student Help Desk, Org Assistance & IT Peer Mentorship",
+        "instructor": "Council Officers & Volunteers",
+        "section": "Open to All CCS Students",
+        "status": "Upcoming"
+      }
+    ],
+    "access": "Staff & authorized personnel only"
+  },
+  {
+    "id": "lec-3",
+    "name": "Lecture Hall 3 (Lec 3)",
+    "code": "Lec 3",
+    "category": "lecture",
+    "floor": 2,
+    "coordinates": {
+      "x": 99.2,
+      "y": 4.2,
+      "z": -6.6
+    },
+    "color": "#0284c7",
+    "description": "Second floor standard lecture hall with multimedia projection and acoustic wall panels.",
+    "head": "Prof. Leo Navarro",
+    "hours": "Mon - Sat, 7:00 AM - 7:30 PM",
+    "facilities": [
+      "Projector",
+      "Sound System",
+      "Air Conditioned",
+      "Whiteboard"
+    ],
+    "directions": "2nd Floor (L2).",
+    "schedule": [
+      {
+        "time": "08:30 AM - 10:30 AM",
+        "subject": "CS 205: Database Systems",
+        "instructor": "Prof. Leo Navarro",
+        "section": "BSCS 2-A",
+        "status": "In Progress"
+      },
+      {
+        "time": "01:00 PM - 03:00 PM",
+        "subject": "IT 202: Network Administration",
+        "instructor": "Engr. Dennis Tan",
+        "section": "BSIT 2-A",
+        "status": "Upcoming"
+      }
+    ]
+  },
+  {
+    "id": "lec-4",
+    "name": "Lecture Hall 4 (Lec 4)",
+    "code": "Lec 4",
+    "category": "lecture",
+    "floor": 2,
+    "coordinates": {
+      "x": 89.4,
+      "y": 4.2,
+      "z": -6.6
+    },
+    "color": "#0284c7",
+    "description": "Second floor lecture room equipped for technical presentations and seminars.",
+    "head": "Dr. Jason Miller",
+    "hours": "Mon - Sat, 7:30 AM - 7:00 PM",
+    "facilities": [
+      "Projector",
+      "Air Conditioned",
+      "High-Speed WiFi"
+    ],
+    "directions": "2nd Floor (L2).",
+    "schedule": [
+      {
+        "time": "09:00 AM - 11:00 AM",
+        "subject": "MATH 201: Probability & Statistics",
+        "instructor": "Dr. Sarah Jenkins",
+        "section": "BSCS 2-B",
+        "status": "In Progress"
+      },
+      {
+        "time": "01:30 PM - 03:30 PM",
+        "subject": "CS 310: Software Engineering",
+        "instructor": "Prof. Daniel Cruz",
+        "section": "BSCS 3-B",
+        "status": "Upcoming"
+      }
+    ]
+  },
+  {
+    "id": "lec-5",
+    "name": "Lecture Hall 5 (Lec 5)",
+    "code": "Lec 5",
+    "category": "lecture",
+    "floor": 2,
+    "coordinates": {
+      "x": 82.9,
+      "y": 4.3,
+      "z": -6.6
+    },
+    "color": "#0284c7",
+    "description": "Second floor lecture room with multimedia presentation display.",
+    "head": "Prof. Angela Reyes",
+    "hours": "Mon - Sat, 7:30 AM - 7:00 PM",
+    "facilities": [
+      "Projector",
+      "Air Conditioned",
+      "Wireless Screen Sharing"
+    ],
+    "directions": "2nd Floor (L2).",
+    "schedule": [
+      {
+        "time": "08:30 AM - 10:30 AM",
+        "subject": "ENG 102: Technical Presentation",
+        "instructor": "Prof. Angela Reyes",
+        "section": "BSCS 1-A",
+        "status": "In Progress"
+      },
+      {
+        "time": "01:00 PM - 03:00 PM",
+        "subject": "HUM 102: Ethics & Society",
+        "instructor": "Prof. Rita Gomez",
+        "section": "BSIT 1-A",
+        "status": "Upcoming"
+      }
+    ]
+  },
+  {
+    "id": "lec-6",
+    "name": "Lecture Hall 6 (Lec 6)",
+    "code": "Lec 6",
+    "category": "lecture",
+    "floor": 2,
+    "coordinates": {
+      "x": 58.6,
+      "y": 4.5,
+      "z": -6.6
+    },
+    "color": "#0284c7",
+    "description": "Second floor lecture hall with smart interactive whiteboard.",
+    "head": "Dr. Alan Perez",
+    "hours": "Mon - Sat, 7:00 AM - 8:00 PM",
+    "facilities": [
+      "Projector",
+      "Sound System",
+      "Air Conditioned"
+    ],
+    "directions": "2nd Floor (L2).",
+    "schedule": [
+      {
+        "time": "10:00 AM - 12:00 PM",
+        "subject": "PHYS 101: Mechanics & Heat",
+        "instructor": "Dr. Alan Perez",
+        "section": "Freshmen All",
+        "status": "In Progress"
+      },
+      {
+        "time": "02:00 PM - 04:00 PM",
+        "subject": "CS 102: Computer Programming 1",
+        "instructor": "Prof. Kevin Morales",
+        "section": "BSCS 1-B",
+        "status": "Upcoming"
+      }
+    ]
+  },
+  {
+    "id": "lec-7",
+    "name": "Lecture Hall 7 (Lec 7)",
+    "code": "Lec 7",
+    "category": "lecture",
+    "floor": 2,
+    "coordinates": {
+      "x": 48.7,
+      "y": 4.4,
+      "z": -6.6
+    },
+    "color": "#0284c7",
+    "description": "Second floor corner lecture hall with bright natural lighting and dual display screens.",
+    "head": "Prof. Rita Gomez",
+    "hours": "Mon - Sat, 7:30 AM - 6:30 PM",
+    "facilities": [
+      "Dual Monitors",
+      "Air Conditioned",
+      "Podium"
+    ],
+    "directions": "2nd Floor (L2).",
+    "schedule": [
+      {
+        "time": "09:00 AM - 11:00 AM",
+        "subject": "FIL 101: Modern Communication",
+        "instructor": "Prof. Rita Gomez",
+        "section": "BSIT 1-C",
+        "status": "In Progress"
+      },
+      {
+        "time": "01:30 PM - 03:30 PM",
+        "subject": "PE 102: Physical Fitness Theory",
+        "instructor": "Coach Gary",
+        "section": "Open Block",
+        "status": "Upcoming"
+      }
+    ]
+  },
+  {
+    "id": "lec-8",
+    "name": "Lecture Hall 8 (Lec 8)",
+    "code": "Lec 8",
+    "category": "lecture",
+    "floor": 3,
+    "coordinates": {
+      "x": 99.6,
+      "y": 7.6,
+      "z": -6.6
+    },
+    "color": "#0284c7",
+    "description": "Third floor lecture hall equipped for technical presentations.",
+    "head": "Dr. Emily Wong",
+    "hours": "Mon - Sat, 7:30 AM - 7:30 PM",
+    "facilities": [
+      "Laser Projector",
+      "Smart Lectern",
+      "Air Conditioned"
+    ],
+    "directions": "3rd Floor (L3).",
+    "schedule": [
+      {
+        "time": "08:30 AM - 10:30 AM",
+        "subject": "CS 402: Machine Learning Applications",
+        "instructor": "Dr. Emily Wong",
+        "section": "BSCS 4-A",
+        "status": "In Progress"
+      },
+      {
+        "time": "01:00 PM - 03:00 PM",
+        "subject": "CS 499: Senior Research Colloquium",
+        "instructor": "Research Panel",
+        "section": "BSCS 4-B",
+        "status": "Upcoming"
+      }
+    ]
+  },
+  {
+    "id": "lec-9",
+    "name": "Lecture Hall 9 (Lec 9)",
+    "code": "Lec 9",
+    "category": "lecture",
+    "floor": 3,
+    "coordinates": {
+      "x": 89.7,
+      "y": 7.5,
+      "z": -6.6
+    },
+    "color": "#0284c7",
+    "description": "Third floor lecture room with high-speed wireless displays.",
+    "head": "Engr. Dennis Tan",
+    "hours": "Mon - Sat, 7:30 AM - 7:00 PM",
+    "facilities": [
+      "Projector",
+      "Air Conditioned",
+      "High-Speed WiFi"
+    ],
+    "directions": "3rd Floor (L3).",
+    "schedule": [
+      {
+        "time": "09:30 AM - 11:30 AM",
+        "subject": "CYBER 301: Ethical Hacking & Security",
+        "instructor": "Engr. Dennis Tan",
+        "section": "BSIT 3-A",
+        "status": "In Progress"
+      },
+      {
+        "time": "02:00 PM - 04:00 PM",
+        "subject": "IT 304: Systems Integration",
+        "instructor": "Prof. Cynthia Bautista",
+        "section": "BSIT 3-B",
+        "status": "Upcoming"
+      }
+    ]
+  },
+  {
+    "id": "lec-10",
+    "name": "Lecture Hall 10 (Lec 10)",
+    "code": "Lec 10",
+    "category": "lecture",
+    "floor": 3,
+    "coordinates": {
+      "x": 82.7,
+      "y": 7.2,
+      "z": -6.6
+    },
+    "color": "#0284c7",
+    "description": "Third floor quiet lecture room with projector and podium.",
+    "head": "Prof. Kevin Morales",
+    "hours": "Mon - Sat, 7:30 AM - 7:00 PM",
+    "facilities": [
+      "Projector",
+      "Air Conditioned",
+      "Whiteboard"
+    ],
+    "directions": "3rd Floor (L3).",
+    "schedule": [
+      {
+        "time": "08:00 AM - 10:00 AM",
+        "subject": "CS 304: Mobile App Development",
+        "instructor": "Prof. Kevin Morales",
+        "section": "BSCS 3-A",
+        "status": "In Progress"
+      },
+      {
+        "time": "01:30 PM - 03:30 PM",
+        "subject": "IT 208: UI/UX Design Principles",
+        "instructor": "Guest Lecturer",
+        "section": "BSIT 2-B",
+        "status": "Upcoming"
+      }
+    ]
+  },
+  {
+    "id": "lec-11",
+    "name": "Lecture Hall 11 (Lec 11)",
+    "code": "Lec 11",
+    "category": "lecture",
+    "floor": 3,
+    "coordinates": {
+      "x": 58.8,
+      "y": 7.6,
+      "z": -6.6
+    },
+    "color": "#0284c7",
+    "description": "Third floor lecture hall with sound reinforcement system.",
+    "head": "Dr. Sarah Jenkins",
+    "hours": "Mon - Sat, 7:00 AM - 8:00 PM",
+    "facilities": [
+      "Projector",
+      "Sound System",
+      "Air Conditioned"
+    ],
+    "directions": "3rd Floor (L3).",
+    "schedule": [
+      {
+        "time": "10:00 AM - 12:00 PM",
+        "subject": "MATH 302: Numerical Analysis",
+        "instructor": "Dr. Sarah Jenkins",
+        "section": "BSCS 3-B",
+        "status": "In Progress"
+      },
+      {
+        "time": "02:00 PM - 04:00 PM",
+        "subject": "CS 315: Compiler Design",
+        "instructor": "Prof. Daniel Cruz",
+        "section": "BSCS 3-A",
+        "status": "Upcoming"
+      }
+    ]
+  },
+  {
+    "id": "lec-12",
+    "name": "Lecture Hall 12 (Lec 12)",
+    "code": "Lec 12",
+    "category": "lecture",
+    "floor": 3,
+    "coordinates": {
+      "x": 48.5,
+      "y": 7.5,
+      "z": -6.6
+    },
+    "color": "#0284c7",
+    "description": "Third floor West corner hall with dual display screens.",
+    "head": "Prof. Daniel Cruz",
+    "hours": "Mon - Sat, 7:30 AM - 6:30 PM",
+    "facilities": [
+      "Dual Display Monitors",
+      "Air Conditioned",
+      "Podium"
+    ],
+    "directions": "3rd Floor (L3).",
+    "schedule": [
+      {
+        "time": "09:00 AM - 11:00 AM",
+        "subject": "CS 420: Distributed Cloud Systems",
+        "instructor": "Prof. Cynthia Bautista",
+        "section": "BSCS 4-A",
+        "status": "In Progress"
+      },
+      {
+        "time": "01:00 PM - 03:00 PM",
+        "subject": "IT 405: Information Assurance",
+        "instructor": "Engr. Dennis Tan",
+        "section": "BSIT 4-B",
+        "status": "Upcoming"
+      }
+    ]
+  },
+  {
+    "id": "male-restroom",
+    "name": "Male Restroom (Ground Floor)",
+    "code": "Male CR",
+    "category": "amenity",
+    "floor": 1,
+    "coordinates": {
+      "x": 68.8,
+      "y": 0.3,
+      "z": -1.7
+    },
+    "color": "#0284c7",
+    "description": "Ground floor male restroom with handwash sinks, sanitary cubicles, and mirrors.",
+    "head": "Campus Facilities & Sanitation",
+    "hours": "Open 24/7",
+    "facilities": [
+      "Handwash Sinks",
+      "Urinals",
+      "Cubicles",
+      "Mirror"
+    ],
+    "directions": "Ground Floor (L1), near center entrance.",
+    "schedule": []
+  },
+  {
+    "id": "female-restroom",
+    "name": "Female Restroom (Ground Floor)",
+    "code": "Female CR",
+    "category": "amenity",
+    "floor": 1,
+    "coordinates": {
+      "x": 44.6,
+      "y": 0.4,
+      "z": -2.1
+    },
+    "color": "#ec4899",
+    "description": "Ground floor female restroom with clean vanity counters, sanitary cubicles, and mirrors.",
+    "head": "Campus Facilities & Sanitation",
+    "hours": "Open 24/7",
+    "facilities": [
+      "Handwash Sinks",
+      "Sanitary Cubicles",
+      "Vanity Mirror",
+      "Hygiene Dispenser"
+    ],
+    "directions": "Ground Floor (L1), near Lec 2 & Octa Office.",
+    "schedule": []
+  },
+  {
+    "id": "hangout-area",
+    "name": "Student Hangout & Lounge Area",
+    "code": "Hangout",
+    "category": "amenity",
+    "floor": 1,
+    "coordinates": {
+      "x": 73.1,
+      "y": 0,
+      "z": -4.3
+    },
+    "color": "#10b981",
+    "description": "Open student lounge area designed for group work, relaxation between classes, and campus socialization.",
+    "head": "Student Affairs Council",
+    "hours": "6:00 AM - 9:00 PM",
+    "facilities": [
+      "Benches & Seating",
+      "Power Outlets",
+      "High-Speed Wi-Fi",
+      "Study Tables"
+    ],
+    "directions": "Ground Floor (L1), open lounge area.",
+    "schedule": []
+  }
+]
